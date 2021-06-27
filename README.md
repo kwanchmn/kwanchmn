@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chin Man KWAN
-- 👀 I've studied international relations for five years and I’m currently learning data science and programming.
+- 👀 I've studied international relations and political science for five years but I discovered my interest in data science during the second year of my master's programme
 - 📫 How to reach me:
   - email: kwanchmn@gmail.com
   - linkedin: https://www.linkedin.com/in/kwancm/
