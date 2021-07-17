@@ -3,7 +3,6 @@
 - 📫 How to reach me:
   - email: kwanchmn@gmail.com
   - linkedin: https://www.linkedin.com/in/kwancm/
-- Currently mastering R and Python will be my next language to learn :)
 - Language: Native in Chinese, Bilingual in English, Beginner in French
 
 <!---
