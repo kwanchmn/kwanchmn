@@ -3,8 +3,12 @@
 - 📫 How to reach me:
   - email: kwanchmn@gmail.com
   - linkedin: https://www.linkedin.com/in/kwancm/
-- Language (linguistic): Native in Cantonese, bilingual in English, fluent in Mandarin, intermediate in French
-- Language (programming): Python, R
+- Natural languages that I know: 
+  * Native in Cantonese
+  * Bilingual in English
+  * Fluent in Mandarin
+  * Intermediate in French
+- Programming languages that I know (programming): Python, SQL
 
 <!---
 kwanchmn/kwanchmn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
