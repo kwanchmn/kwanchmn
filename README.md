@@ -1,14 +1,5 @@
-- 👋 Hi, I’m Chin Man KWAN or Baldur
-- 👀 I've studied international relations and political science for five years but I discovered my interest in data science during the second year of my master's programme
-- 📫 How to reach me:
-  - email: kwanchmn[at]gmail.com
-  - linkedin: https://www.linkedin.com/in/kwancm/
-- Natural languages that I know: 
-  * Native in Cantonese
-  * Bilingual in English
-  * Fluent in Mandarin
-  * Intermediate in French
-- Programming languages that I know (programming): Python, SQL
+- 👋 Hi, I’m Baldur
+- 👀 I studied international relations and political science for five years, but I eventually discovered my interest in data science. That's why I'm now doing a master's degree in statistics at the University of Geneva to transition my career.
 
 <!---
 kwanchmn/kwanchmn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
